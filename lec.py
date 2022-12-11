@@ -1,5 +1,14 @@
 print ('hello world')
 
+# # Вложенные циклы
+# line = ""
+# for i in range(5):
+#     line = ""
+#     for j in range(5):
+#         line += "*"
+#     print(line)
+
+
 # value=None
 # # print(type(value))
 # a = 123
